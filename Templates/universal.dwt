@@ -25,7 +25,7 @@
   <header>
   	<div id="headerWrapper">
     <div id="headerTop">
-      <div id="logo"><a href="../index.html" title="Nick Volkert | Chicago, IL"><img src="../svg/nickvolkertlogo.svg" /></a></div>
+      <div id="logo"><a href="../index.html" title="Nick Volkert | Chicago, IL"><img src="../img/svg/nickvolkertlogo.svg" /></a></div>
       <!--Logo-->
       <div id="contactInfo">
         <ul>
@@ -48,8 +48,8 @@
               			<li><a href="../uxdesign/icons/index.html">Icons &amp; App Icons</a></li>
               			<li><a href="../uxdesign/solutioning/index.html">UX Team Solutions</a></li>
               			<li><a href="../uxdesign/DailyUI/index.html">Daily UI</a></li>
-              			<li><a href="../frontenddev/index.html">Front End Development</a></li>
-                        <li><a href="../fullstack/index.html">Full Stack</a></li>
+              			<li><a href="../dev/frontenddev/index.html">Front End Development</a></li>
+                        <li><a href="../dev/fullstack/index.html">Full Stack</a></li>
               		</ul>
           		</li>
         	</ul>
@@ -67,7 +67,7 @@
               <li><a href="../illustration/maps/index.html">Illustrated Maps</a></li>
               <li><a href="../illustration/covers/index.html">Covers</a></li>
               <li><a href="../illustration/murals/index.html">Live Mural</a></li>
-              <li><a href="../album_art/index.html">Album Art</a></li>
+              <li><a href="../illustration/album_art/index.html">Album Art</a></li>
             </ul>
           </li>
         </ul>
@@ -80,7 +80,7 @@
            	  <li><a href="../design/branding/index.html">Branding</a></li>
            	  <li><a href="../design/posters/index.html">Posters</a></li>
               <li><a href="../design/logos/index.html">Logos</a></li>
-              <li><a href="../type/index.html">Lettering</a></li>
+              <li><a href="../design/type/index.html">Lettering</a></li>
             </ul>
           </li>
         </ul>
@@ -102,11 +102,11 @@
         <ul class="col05">
           <li>Info
             <ul>
-              <li><a href="../news.html">News</a></li>
+              <li><a href="../news/index.html">News</a></li>
               <li><a href="../press/index.html">Press</a></li>
               <li><a href="../videos/index.html">Videos</a></li>
               <li><a href="../about.html">About</a></li>
-              <li><a href="../links.html">Links</a></li>
+              <li><a href="../contact/links.html">Links</a></li>
             </ul>
           </li>
         </ul>
@@ -165,7 +165,7 @@
     </div>
     <!--Footer Connect-->
     <div id="copyright">
-      <div id="foot_logo"><a href="http://www.nickvolkert.com/" title="Nick Volkert"><img src="../svg/nickvolkertlogo_footer.svg" /></a></div>
+      <div id="foot_logo"><a href="http://www.nickvolkert.com/" title="Nick Volkert"><img src="../img/svg/nickvolkertlogo_footer.svg" /></a></div>
       <div class="copyright">&copy;2001-2020 Nick Volkert | <a href="http://www.nickvolkert.com/">www.nickvolkert.com</a> All works of authorship on this medium are original and all rights thereto are reserved. Conveyance of this medium to a third party does not constitute a license to reproduce, use, or copy this work of authorship in any manner. </div>
     </div>
   </div>

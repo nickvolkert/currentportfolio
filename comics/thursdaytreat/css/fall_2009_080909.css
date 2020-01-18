@@ -1,0 +1,159 @@
+/* CSS Document */
+
+body{
+background-color:#111;
+font-family:Arial, Helvetica, sans-serif;
+margin:0;
+padding:0;
+}
+#wrapper{
+width:1005px;
+height:auto;
+margin:0;
+padding:0;
+}
+#nav{
+position:fixed;
+left:0;
+top:0;
+width:240px;
+background-color:#FF0066;
+}
+#home{
+height:200px;
+width:auto;
+}
+#navlinks{
+height:auto;
+width:152px;
+margin:0 auto;
+padding:0;
+}
+#navbtm{
+background-image:url(../../../thursdaytreat/images/nav_btm.gif);
+background-position:left top;
+background-repeat:no-repeat;
+width:240px;
+height:55px;
+}
+
+#center{
+float:left;
+margin:0 0 0 240px;
+width:492px;
+height:auto;
+min-height:515px;
+}
+#center h1{
+font-size:30px;
+color:#FF0066;
+padding:10px 0 10px 0;
+margin:0;
+font-weight:300;
+}
+#center h2{
+font-size:20px;
+color:#FF0066;
+padding:0 0 10px 0;
+margin:30px 0 0 0;
+font-weight:300;
+}
+#center p{
+font-size:14px;
+color:#b3b3b3;
+margin:0;
+padding:0 0 15px 0;
+}
+#center a:link{
+color:#FFFFFF;
+}
+#center a:visited{
+color:#4d4d4d;
+}
+#center a:hover{
+color:#FF0066;
+}
+#content{
+width:470px;
+margin:0 auto;
+padding:10px 0 0 0;
+}
+.package{
+height:auto;
+}
+.datestamp{
+font-size:12px;
+color:#FF0066;
+padding:10px 0 5px 0;
+}
+.promotext{
+
+}
+
+
+#right{
+float:left;
+padding:0;
+margin:0 0 10px 0;
+/*
+left:730px;
+top:0;
+position:absolute;
+*/
+width:271px;
+background-color:#262626;
+height:auto;
+}
+#right h3{
+font-size:20px;
+color:#b3b3b3;
+font-weight:300;
+margin:0;
+padding:10px 0 5px 0;
+}
+#right p{
+font-size:12px;
+color:#b3b3b3;
+padding:5px 0 5px 0;
+margin:0;
+}
+#rightcntnt{
+padding:10px 0 0 0;
+width:204px;
+margin:0 auto;
+}
+#rightbtm{
+padding:0;
+margin:0;
+width:271px;
+height:55px;
+background-image:url(../../../thursdaytreat/images/prev_btm.gif);
+background-position:left top;
+background-repeat: no-repeat;
+}
+
+
+#foot{
+clear:both;
+width:900px;
+height:50px;
+margin:0 auto;
+padding-bottom:5px;
+}
+#footlogo{
+float:left;
+margin-right:30px;
+}
+#foottext{
+float:left;
+font-size:12px;
+color:#4d4d4d;
+width:700px;
+padding-top:10px;
+}
+::selection {
+	background: #FF0066; /* Safari */
+	}
+::-moz-selection {
+	background: #FF0066; /* Firefox */
+}

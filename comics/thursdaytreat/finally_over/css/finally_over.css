@@ -1,0 +1,17 @@
+/* CSS Document */
+
+body{
+background-color:#042959;
+background-image:url(../../../../thursdaytreat/finally_over/images/bg.gif);
+background-repeat:repeat;
+}
+#wrapper{
+width:697px;
+height:auto;
+margin:20px auto;
+}
+#content{
+height:580px;
+background-color:#FFFFFF;
+border:4px solid #048abf;
+}
