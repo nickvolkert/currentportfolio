@@ -1,2 +1,0 @@
-<div id="footer"> ©2008 <strong>Nick Volkert&nbsp;</strong> | <strong>&nbsp;www.nickvolkert.com</strong> &nbsp;  All works of authorship on this medium are <strong>original</strong> and all rights thereto are <strong>reserved.<br />
-</strong>Conveyance of this medium to a third party does not constitute a license to <strong>reproduce, use, or copy</strong> this work of authorship in <strong>any manner.</strong></div>
