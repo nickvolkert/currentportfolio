@@ -1,0 +1,147 @@
+@charset "UTF-8";
+/* CSS Document */
+html{padding:0;margin:0;width:auto;height:auto;}
+body{
+	padding:0;
+	margin:0;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-weight: normal;
+	font-style: normal;
+	font-size:16px;
+	width:auto;
+	height:auto;
+	}
+
+p{
+	
+}
+h1,h2,h3{
+    color:#474747;
+}
+h1{
+	
+	}
+h2{
+	
+	}
+h3{
+	
+	}
+h4{
+	
+	}
+
+ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+
+li { 
+    padding:0;
+	margin:0;
+}
+a img, img{
+	border:1px solid #C4C4C4;
+	padding:0;
+	margin:0 0 10px 0;
+}
+
+a{
+    color:#333;
+    text-decoration:none;
+}
+a:visited{
+    color:#655b58;
+    text-decoration:underline;
+}
+a:hover{
+    color:#15b8ea;
+    text-decoration:underline;
+}
+.clear{
+    clear:both;
+}
+
+
+/*Wrapper*/
+#wrapper{
+	
+	}
+
+
+/*Header Styles*/
+header{
+    
+}
+
+#logo{
+    width:250px;
+    height:49px;
+    padding:0 28px 0 0;
+    position:absolute;
+    top:24px;left:0;
+}
+#logo a{
+    background: url(../portfolio/svg/nickvolkertlogo.svg) no-repeat 0 0;
+    width:250px;
+    height:49px;
+    display:block;
+}
+#logo a:hover{
+    color:red;
+}
+#logo a span{
+    display:none;
+}
+
+nav{
+	width:960px;
+	height:auto;
+	margin:0 auto;
+	padding:0 15px 20px 15px;
+	}
+
+/*main body styles*/
+#mainBody{
+	
+	}
+#mainBody ::selection {background: #ccc; /* Safari */}
+#mainBody ::-moz-selection {background: #ccc; /* Firefox */}
+
+#content{
+    
+}
+
+/*Store Links*/
+.linkTumblr,
+.linkSociety6,
+.linkRedBubble,
+.linkDBH,
+.linkTeePublic,
+.linkBustedTees,
+.linkAlley,
+.linkThreadless{
+	
+}
+
+.projectLinks a.linkRedBubble{
+	background-color:#f73939;
+	border:1px solid #f73939;
+	color:#FFF;
+}
+.projectLinks a.linkRedBubble:hover{
+	border:1px solid #15b8ea;
+	background-color:#15b8ea;
+	color:#FFF;
+}
+
+/*footer styles*/
+footer{
+	
+    }
+/*footer styles*/
+
+
+
+

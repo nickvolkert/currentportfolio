@@ -1,0 +1,339 @@
+<!DOCTYPE HTML>
+<html><head>
+<meta charset="UTF-8">
+<meta name="description" content="Personal portfolio of Chicago based Freelance Artist Nick Volkert">
+<meta name="keywords" content="nickv47, Nick Volkert, Chicago, Artist, Illinois, UX, User Experience, UI, User Interface, Design, Illustration, Vector, Logo Design, Web Design, Print Design, Freelance Artist, Icon Design, Comics, Cartoonist, Monday Comic, Dear Future Girlfriend, Thursday Treat, GCWF, Gone Clean Wholesome Fun, Helpful Spider, Album Art, Fine Art, Abstract Painting, Painter, Volkert's Toons" />
+<meta name="copyright" content="©2001-2019 Nick Volkert">
+<meta name="author" content="Nick Volkert">
+<meta name="email" content="nick@nickvolkert.com">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/general.css" rel="stylesheet" type="text/css" />
+<link href="http://nickvolkert.com/favicon.ico" rel="shortcut icon">
+<!-- TemplateParam name="pageID" type="text" value="general" -->
+<!-- TemplateParam name="pageclass" type="text" value="general" -->
+</head>
+
+<body class="@@(_document['pageclass'])@@">
+    <div id="alert"></div>
+    <div id="wrapper">
+    <header>
+  	    <div id="headerWrap">
+            <div id="logo">
+              <a href="../index.html"><span>Nick Volkert | Chicago, IL</span></a>
+            </div>
+        </div>
+        <!--Logo-->
+        <nav>
+            <div id="linkWrap">
+                <ul>
+                    <li><a href="../UXUI/index.html">UX / UI</a>
+                        <ul>
+                            <li><a href="../process/index.html">Process</a></li>
+                            <li><a href="../UI/index.html">UI Design</a></li>
+                            <li><a href="../UX/index.html">UX Design</a></li>
+                            <li><a href="../icons/index.html">Icons / App Icons</a></li>
+                            <li><a href="../website_design/index.html">Website Design</a></li>
+                            <li><a href="../DailyUI/index.html">Daily UI</a></li>
+                            <li><a href="../solutioning/index.html">UX Solutions</a></li>
+                            <li><a href="../frontenddev/index.html">Front End Dev</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../illustration/index.html">Illustration</a>
+                        <ul>
+                            <li><a href="../illustration/rendered/index.html">Rendered Works</a></li>
+                            <li><a href="../illustration/vector/index.html">Vector Illustration</a></li>
+                            <li><a href="../technical_illustration/index.html">Technical Illustration</a></li>
+                            <li><a href="../instructional_graphics/index.html">Instructional Graphics</a></li>
+                            <li><a href="../illustration_series/index.html">Illustration Series</a></li>
+                            <li><a href="../murals/index.html">Live Mural</a></li>
+                            <li><a href="../album_art/index.html">Album Art</a></li>
+                            <li><a href="../sketchbook/index.html">Sketchbook</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../design/index.html">Design</a>
+                        <ul>
+                            <li><a href="../branding/index.html">Branding</a></li>
+                            <li><a href="../powerpoint/index.html">Powerpoint</a></li>
+                            <li><a href="../posters/index.html">Posters</a></li>
+                            <li><a href="../logos/index.html">Logos</a></li>
+                            <li><a href="../lettering/index.html">Lettering</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../art/index.html">Fine Art</a>
+                        <ul>
+                            <li><a href="../art/recent/index.html">Recent Works</a></li>
+                            <li><a href="../art/abstracts/index.html">Abstract Work</a></li>
+                            <li><a href="../art/decks/index.html">Decks</a></li>
+                            <li><a href="../art/birds/index.html">Birds</a></li>
+                            <li><a href="../art/postcards/index.html">Postcards</a></li>
+                            <li><a href="../art/artiststatement.html">Artist Statement</a></li>
+                            <li><a href="../art/shows.html">Shows / Exhibitions</a></li>
+                            <li><a href="../art/process/index.html">Process</a></li>
+                            <li><a href="../art/pricing.html">Pricing</a></li>
+                            <li><a href="../art/commission.html">Commission</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../comics/index.html">Comics</a>
+                        <ul>
+                            <li><a href="../mondaycomic/index.html">Monday Comic</a></li>
+                            <li><a href="../dearfuturegf/index.html">Dear Future Girlfriend</a></li>
+                            <li><a href="../helpfulspider/index.html">Helpful Spider</a></li>
+                            <li><a href="../thursdaytreat/index.html">Thursday Treat</a></li>
+                            <li><a href="../gcwf/index.html">GCWF</a></li>
+                            <li><a href="../weekender/index.html">Weekender</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../about/index.html">About</a>
+                        <ul>
+                            <li><a href="../art/recent/index.html">News</a></li>
+                            <li><a href="../art/decks/index.html">Press</a></li>
+                            <li><a href="../art/birds/index.html">Videos</a></li>
+                            <li><a href="../art/abstracts/index.html">About</a></li>
+                            <li><a href="../art/postcards/index.html">Links</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../resume/index.html">Resume</a>
+                        <ul>
+                            <li><a href="../art/recent/index.html">Skills / Resume</a></li>
+                            <li><a href="../art/decks/index.html">Shows / Exhibitions</a></li>
+                        </ul>
+                    </li>
+                </ul>
+		    </div>
+        </nav>
+        <!--Links-->
+        <div id="headerSocial">
+            <div class="contactFollow">
+                <p>Follow Me:</p>
+                <ul>
+                    <li><a class="contactDribbble" href="https://dribbble.com/nickv47"><span>Dribbble</span></a></li>
+                    <li><a class="contactInsta" href="https://www.instagram.com/nickv47/"><span>Instagram</span></a></li>
+                    <li><a class="contactFacebook" href="https://www.facebook.com/volkertstoons/"><span>Facebook</span></a></li>
+                    <li><a class="contactTumblr" href="http://nickv47.tumblr.com/"><span>Tumblr</span></a></li>
+                    <li><a class="contactTwitter" href="https://twitter.com/nickv47"><span>Twitter</span></a></li>
+                </ul>
+            </div>
+        </div>  
+        <!--SocialMedia-->
+    </header>
+    <!--Header-->
+        <div id="mainBody">
+            <div id="content">
+                <!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+            </div>
+            <!--Contact-->
+        </div>
+        <!--Mainbody--> 
+    </div>
+    <!--wrapper-->
+<div id="contactForm">
+    <div id="contactFormWrapper">
+        <form method="post" action="form.php">
+            <div id="contactFormLeft">
+                <label>Name*</label>
+                <input name="name" placeholder="Your Name">
+
+                <label>Email*</label>
+                <input name="email" type="email" placeholder="Email">
+
+                <label>Phone Number</label>
+                <input name="phone" type="phone" placeholder="Phone Number">
+            </div>
+            <div id="contactFormRight">
+                <label>Message</label>
+                <textarea name="message" placeholder="How can I help?"></textarea>
+
+                <label>*What is the state capital of Illinois? (Anti-spam)</label>
+                <input name="capital" placeholder="Answer">
+
+                <input id="submit" name="submit" type="submit" value="Submit">
+            </div>
+        </form>   
+        <div class="contactCard">
+            <div class="contactLogo"><span>Nick Volkert | Logo</span></div>
+            <div class="contactInfo">
+                <p>Nick Volkert</p>
+                <p>Chicago, IL</p>
+                <p><a href="mailto:nick@nickvolkert.com">nick@nickvolkert.com</a></p>
+            </div>
+            <div class="contactFollow">
+                <p>Follow Me:</p>
+                <ul>
+                    <li><a class="contactDribbble" href="https://dribbble.com/nickv47"><span>Dribbble</span></a></li>
+                    <li><a class="contactInsta" href="https://www.instagram.com/nickv47/"><span>Instagram</span></a></li>
+                    <li><a class="contactFacebook" href="https://www.facebook.com/volkertstoons/"><span>Facebook</span></a></li>
+                    <li><a class="contactTumblr" href="http://nickv47.tumblr.com/"><span>Tumblr</span></a></li>
+                    <li><a class="contactTwitter" href="https://twitter.com/nickv47"><span>Twitter</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--Contact Form Wrapper-->
+</div>
+<!--Contact Form-->
+<footer>
+	<div id="footerNavTop">
+		<div class="contactCard">
+			<div class="contactLogo"><span>Nick Volkert | Logo</span></div>
+			<div class="contactInfo">
+				<p>Nick Volkert</p>
+                <p>Chicago, IL</p>
+                <p><a href="mailto:nick@nickvolkert.com">nick@nickvolkert.com</a></p>
+			</div>
+            <div class="contactFollow">
+                <p>Follow Me:</p>
+                <ul>
+                    <li><a class="contactDribbble" href="https://dribbble.com/nickv47"><span>Dribbble</span></a></li>
+                    <li><a class="contactInsta" href="https://www.instagram.com/nickv47/"><span>Instagram</span></a></li>
+                    <li><a class="contactFacebook" href="https://www.facebook.com/volkertstoons/"><span>Facebook</span></a></li>
+                    <li><a class="contactTumblr" href="http://nickv47.tumblr.com/"><span>Tumblr</span></a></li>
+                    <li><a class="contactTwitter" href="https://twitter.com/nickv47"><span>Twitter</span></a></li>
+                </ul>
+            </div>
+        </div>
+		<div id="footerUXUI">
+            <h4><a href="../UXUI/index.html">UX / UI</a></h4>
+            <ul>
+                <li><a href="../process/index.html">Process</a></li>
+                <li><a href="../UI/index.html">UI Design</a></li>
+                <li><a href="../UX/index.html">UX Design</a></li>
+                <li><a href="../icons/index.html">Icons / App Icons</a></li>
+                <li><a href="../website_design/index.html">Website Design</a></li>
+                <li><a href="../DailyUI/index.html">Daily UI</a></li>
+                <li><a href="../solutioning/index.html">UX Solutions</a></li>
+                <li><a href="../frontenddev/index.html">Front End Dev</a></li>
+            </ul>
+		</div>
+		<div id="footerIllustration">
+			<h4><a href="../illustration/index.html">Illustration</a></h4>
+            <ul>
+                <li><a href="../illustration/rendered/index.html">Rendered Works</a></li>
+                <li><a href="../illustration/vector/index.html">Vector Illustration</a></li>
+                <li><a href="../technical_illustration/index.html">Technical Illustration</a></li>
+                <li><a href="../instructional_graphics/index.html">Instructional Graphics</a></li>
+                <li><a href="../illustration_series/index.html">Illustration Series</a></li>
+                <li><a href="../murals/index.html">Live Mural</a></li>
+                <li><a href="../album_art/index.html">Album Art</a></li>
+                <li><a href="../sketchbook/index.html">Sketchbook</a></li>
+            </ul>
+		</div>
+		<div id="footerDesign">
+            <h4><a href="../design/index.html">Design</a></h4>
+            <ul>
+                <li><a href="../branding/index.html">Branding</a></li>
+                <li><a href="../powerpoint/index.html">Powerpoint</a></li>
+                <li><a href="../posters/index.html">Posters</a></li>
+                <li><a href="../logos/index.html">Logos</a></li>
+                <li><a href="../lettering/index.html">Lettering</a></li>
+            </ul>
+		</div>
+        <div id="footerFineArt">
+			<h4><a href="../art/index.html">Fine Art</a></h4>
+            <ul>
+                <li><a href="../art/recent/index.html">Recent Works</a></li>
+                <li><a href="../art/abstracts/index.html">Abstract Work</a></li>
+                <li><a href="../art/decks/index.html">Decks</a></li>
+                <li><a href="../art/birds/index.html">Birds</a></li>
+                <li><a href="../art/postcards/index.html">Postcards</a></li>
+                <li><a href="../art/artiststatement.html">Artist Statement</a></li>
+                <li><a href="../art/shows.html">Shows / Exhibitions</a></li>
+                <li><a href="../art/process/index.html">Process</a></li>
+                <li><a href="../art/pricing.html">Pricing</a></li>
+                <li><a href="../art/commission.html">Commission</a></li>
+            </ul>
+		</div>
+	</div>
+	<div class="footerDivider"></div>
+	<div id="footerNavBtm">
+		<div id="footerComics">
+            <h4><a href="../comics/index.html">Comics</a></h4>
+            <ul>
+                <li><a href="../mondaycomic/index.html">Monday Comic</a></li>
+                <li><a href="../dearfuturegf/index.html">Dear Future Girlfriend</a></li>
+                <li><a href="../helpfulspider/index.html">Helpful Spider</a></li>
+                <li><a href="../thursdaytreat/index.html">Thursday Treat</a></li>
+                <li><a href="../gcwf/index.html">GCWF</a></li>
+                <li><a href="../weekender/index.html">Weekender</a></li>
+            </ul>
+		</div>
+		<div id="footerAbout">
+            <h4><a href="../about/index.html">About</a></h4>
+            <ul>
+                <li><a href="../art/recent/index.html">News</a></li>
+                <li><a href="../art/decks/index.html">Press</a></li>
+                <li><a href="../art/birds/index.html">Videos</a></li>
+                <li><a href="../art/abstracts/index.html">About</a></li>
+                <li><a href="../art/postcards/index.html">Links</a></li>
+            </ul>
+		</div>
+		<div id="footerResume">
+            <h4><a href="../resume/index.html">Resume</a></h4>
+                <ul>
+                    <li><a href="../art/recent/index.html">Skills / Resume</a></li>
+                    <li><a href="../art/decks/index.html">Shows / Exhibitions</a></li>
+                </ul>
+		</div>
+		<div id="footerSocialMedia">
+            <h4><a href="../links/index.html">Social Media</a></h4>
+                <ul>
+                    <li><a href="https://www.linkedin.com/in/nickvolkert/">LinkedIn</a></li>
+                    <li><a href="https://www.instagram.com/nickv47/">Instagram</a></li>
+                    <li><a href="https://twitter.com/nickv47">Twitter</a></li>
+                    <li><a href="https://dribbble.com/nickv47">Dribbble</a></li>
+                    <li><a href="https://www.facebook.com/volkertstoons/">FB: Volkert’s Toons</a></li>
+                    <li><a href="https://www.facebook.com/nickvolkertcom">FB: nickvolkert.com</a></li>
+                    <li><a href="https://www.facebook.com/DearFutureGF/">FB: DFG</a></li>
+                </ul>
+                <ul>
+                    <li><a href="http://nickv47.tumblr.com/">Tumblr</a></li>
+                    <li><a href="http://volkertstoons.tumblr.com/">Tumblr: Volkert’s Toons</a></li>
+                    <li><a href="http://futuregf.tumblr.com/">Tumblr: DFG</a></li>
+                    <li><a href="https://nickv47.deviantart.com/">DeviantArt</a></li>
+                    <li><a href="https://www.artstation.com/nickv47">Artstation</a></li>
+               </ul>
+		</div>
+	</div>
+    <div id="footerNavShops">
+		<div id="footerShops">
+            <h4><a href="../shop/index.html">Shop</a></h4>
+            <ul>
+                <li><a class="shopRedbubble" href="https://www.redbubble.com/people/nickv47">Redbubble</a></li>
+                <li><a class="shopSoc6" href="https://society6.com/nickv47">Society6</a></li>
+                <li><a class="shopDBH" href="https://www.designbyhumans.com/shop/nickv47/">Design By Humans</a></li>
+                <li><a class="shopTeePublic" href="https://www.teepublic.com/user/nickv47">Tee Public</a></li>
+                <li><a class="shopThreadless" href="https://nickv47.threadless.com/">Threadless</a></li>
+                <li><a class="shopDevArt" href="https://nickv47.deviantart.com/prints/">DeviantArt</a></li>
+            </ul>
+		</div>
+        <div id="footerPatreon">
+            <h4><a href="../shop/index.html">Patreon</a></h4>
+            <ul>
+                <li><a class="shopRedbubble" href="https://www.redbubble.com/people/nickv47">Support my work on Patreon</a></li>
+            </ul>
+		</div>
+    </div>
+    <div class="footerDivider"></div>
+  	<div id="copyright">
+      <div class="copyright">&copy;2001-2019 Nick Volkert | <a href="http://www.nickvolkert.com/">www.nickvolkert.com</a> All works of authorship on this medium are original and all rights thereto are reserved. Conveyance of this medium to a third party does not constitute a license to reproduce, use, or copy this work of authorship in any manner. </div>
+    </div>
+    <div id="subFooter">
+        <div id="subFooterRight">
+            <p><a href="javascript:;">In case of Hipsters, Press This</a></p>
+        </div>
+        <div id="subFooterLeft">
+            <p><a href="../sitemap/sitemap.html">Site Map</a><span class="pipe">|</span><a href="../changelog/index.html">Change Log</a><span class="pipe">|</span><a href="../about_site/index.html">About this Site</a></p>
+        </div>
+    </div>
+    <div id="broadShoulders">
+        <p><span>Built with broad shoulders in Chicago, IL</span></p>
+    </div>
+</footer>
+<!--footer--> 
+<script type="text/javascript" src="../js/jquery-1.7.2.min.js"></script> 
+<script type="text/javascript" src="../js/portfolio.js"></script>
+</body>
+</html>

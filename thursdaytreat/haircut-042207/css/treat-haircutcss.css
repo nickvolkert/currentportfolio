@@ -1,0 +1,19 @@
+/* CSS Document */
+body {
+ background-color:#ffffff;
+ background-repeat:repeat;
+}
+
+p {
+ font-family:"trebuchet ms";
+}
+
+a:link, a:visited {
+ text-decoration:underline;
+ color:#000099;
+}
+
+a:hover, a:active {
+ color: #FFFFFF;
+ background-color:#0000FF;
+}

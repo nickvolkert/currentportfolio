@@ -1,0 +1,27 @@
+/* CSS Document */
+
+body {
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000000;
+}
+h1 {
+font-size:24px;
+color:#999999;
+}
+h2 {
+font-size:14px;
+color:#666666;
+margin-bottom:10px;
+}
+.data {
+background-color:#CCCC99;
+padding:10px;
+}
+.header {
+background-color:#CC9966;
+font-size:14px;
+padding:10px;
+text-transform:uppercase;
+font-weight:bold;
+}

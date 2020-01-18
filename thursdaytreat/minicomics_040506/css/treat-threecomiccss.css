@@ -1,0 +1,20 @@
+/* CSS Document */
+a:link, a:visited {
+ text-decoration: underline;
+ color: #666666;
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:medium;
+ background-color: #CCCCCC;
+}
+a:hover, a:active {
+ color: #FFFFFF;
+ background-color: #666666;
+}
+h1 {
+ background-color: #CCCCCC;
+ color: #666666;
+ font-family:Arial, Helvetica, sans-serif;
+ text-indent: 10px;
+ padding: 0px;
+ font-size:medium;
+}

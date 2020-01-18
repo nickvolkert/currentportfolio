@@ -1,0 +1,13 @@
+/* CSS Document */
+
+a:link, a:visited {
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ text-decoration:underline;
+ color:#0000CC;
+ background-color: transparent;
+}
+a:hover, a:active {
+ text-decoration: none;
+ color:#FFFFFF;
+ background-color:#0000CC;
+}
